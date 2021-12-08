@@ -1,0 +1,22 @@
+{
+    "baseUrl": "http://automationpractice.com/index.php",
+    "chromeWebSecurity": false,
+    "env": {
+        "email": "dioice@teste.com.br",
+        "passwd": "teste",
+        "emailinvalido": "dioice@teste.",
+        "name": "Joyce",
+        "second": "da Costa"
+    },
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    },
+    "reporterEnabled": "mochawesome",
+    "mochawesomeReporterOptions": {
+        "reportDir": "cypress/json",
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
+}

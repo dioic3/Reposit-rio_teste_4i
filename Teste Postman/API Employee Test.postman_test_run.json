@@ -1,0 +1,122 @@
+{
+	"id": "e93ab710-cde6-49b8-91d9-f46ffc943be8",
+	"name": "API Employee Test",
+	"timestamp": "2021-12-06T14:54:37.232Z",
+	"collection_id": "18605293-6d2d378d-6e63-403b-b217-a5cd2ca4b6fc",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 9,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "84b4f3dd-791c-4b04-a729-204a1bb85473",
+			"name": "Criar um funcionário",
+			"url": "http://dummy.restapiexample.com/api/v1/create",
+			"time": 1280,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Check Content Type Header": true,
+				"Status code": true,
+				"Teste para validar se está tudo ok e se contém corpo": true,
+				"Teste de mensagem": true,
+				"Teste para verificar as informações": true
+			},
+			"testPassFailCounts": {
+				"Check Content Type Header": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Teste para validar se está tudo ok e se contém corpo": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Teste de mensagem": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Teste para verificar as informações": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				1280
+			],
+			"allTests": [
+				{
+					"Check Content Type Header": true,
+					"Status code": true,
+					"Teste para validar se está tudo ok e se contém corpo": true,
+					"Teste de mensagem": true,
+					"Teste para verificar as informações": true
+				}
+			]
+		},
+		{
+			"id": "eeb7351d-670f-4a30-a218-6cceff3af968",
+			"name": "Deletar funcionário",
+			"url": "http://dummy.restapiexample.com/api/v1/delete/8753",
+			"time": 835,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Check Content Type Header": true,
+				"Teste para validar se está tudo ok e se contém corpo": true,
+				"Status code": true,
+				"Teste de mensagem": true
+			},
+			"testPassFailCounts": {
+				"Check Content Type Header": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Teste para validar se está tudo ok e se contém corpo": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Status code": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Teste de mensagem": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				835
+			],
+			"allTests": [
+				{
+					"Check Content Type Header": true,
+					"Teste para validar se está tudo ok e se contém corpo": true,
+					"Status code": true,
+					"Teste de mensagem": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2115,
+	"collection": {
+		"requests": [
+			{
+				"id": "84b4f3dd-791c-4b04-a729-204a1bb85473",
+				"method": "POST"
+			},
+			{
+				"id": "eeb7351d-670f-4a30-a218-6cceff3af968",
+				"method": "DELETE"
+			}
+		]
+	}
+}
