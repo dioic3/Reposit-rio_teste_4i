@@ -59,7 +59,19 @@ Sendo assim, pode-se dizer que a classe contem três "comandos":
 
 ![all text](https://media.discordapp.net/attachments/902270296155906159/918633886341271592/unknown.png)
 
-Na imagem acima, esse código está localizado na pasta "Teste" e eu importo as classes "Sign Up" e "Informações" para o código fonte, e eu marquei em vermelho a função que entra com o e-mail no arquivo cypress.json e realiza o "Create an account".
+Na imagem acima, esse código está localizado na pasta "Teste" e eu importo as classes "Sign Up" e "Informações" para o código fonte, e eu marquei em rosa a função que entra com o e-mail no arquivo cypress.json e realiza o "Create an account".
 
 As coisas que mencionei na "lógica do código" só foi 1% do que foi feito, recomendo que baixo o código e execute para tirar as suas próprias conclusões.
+
+# Resultados do Teste
+
+O resultado do primeiro teste que contém os cenários: Login válido e inválido.
+
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918640319401197648/unknown.png?width=886&height=473)
+
+O resultado do segundo teste que contém o cenário: Cadastro de conta.
+
+![alt text](![image](https://user-images.githubusercontent.com/82656277/145490228-775bb802-9994-44e1-8cfc-3e1e582b2224.png)
+
+
 
