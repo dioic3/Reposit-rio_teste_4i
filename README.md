@@ -25,7 +25,6 @@ Foi feito um projeto de automação utilizando a API pública com os seguintes c
 3.	Exclua o empregado.
 
 Obs: Sempre validando o Status Code e a mensagem exibida no corpo do texto.
-Para realizar o teste que eu fiz no Postman, recomendo que faça download do aplicativo no site (https://www.postman.com/downloads/), e depois acesse no meu repositório uma pasta “Teste employee”. Na pasta contém a collection criada por mim e um relatório do teste.
 
 Segundo teste:
 
