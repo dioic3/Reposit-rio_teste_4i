@@ -61,4 +61,5 @@ Sendo assim, pode-se dizer que a classe contem três "comandos":
 
 Na imagem acima, esse código está localizado na pasta "Teste" e eu importo as classes "Sign Up" e "Informações" para o código fonte, e eu marquei em vermelho a função que entra com o e-mail no arquivo cypress.json e realiza o "Create an account".
 
+As coisas que mencionei na "lógica do código" só foi 1% do que foi feito, recomendo que baixo o código e execute para tirar as suas próprias conclusões.
 
