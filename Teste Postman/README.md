@@ -21,15 +21,19 @@ Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo d
 
 Na figura acima, é esperado esse resultado na aba Body.
 
-   ![alt text](https://media.discordapp.net/attachments/902270296155906159/918594737248825344/unknown.png)
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918594737248825344/unknown.png)
 
 Detalhe importante: há uma variável global chamada “id” que salva o valor do id do funcionário para que seja deletado.
 
 3.	Realizando o teste para criar o funcionário, abra o request com o nome “Deletar funcionário” e verifique se o valor do id do funcionário está salvo na variável global “id”.
-4.	Verificando se está salvo, aperte no botão “Send” para deletar o funcionário.
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918595715477942412/unknown.png)
+
+5.	Verificando se está salvo, aperte no botão “Send” para deletar o funcionário.
+
 Detalhe importante: O script criado no request “Deletar funcionário” verifica o status code, o corpo do texto, a mensagem que contém no corpo do texto e a mensagem de sucesso. Também o id criado no request “Criar funcionário” é salvo na variável global.
 
-O arquivo na pasta chamada "relatório do teste" contém o relatório do teste, para verificar o resultado do teste basta fazer o download do arquivo.
+Observação importante: Na pasta do "Teste Postan" existe o relatório do teste, para verificar o resultado do teste basta fazer o download do arquivo e abrir no próprio Postman, ou abrir no GitHub e analisar o código.
 
+Atenciosamente, Joyce.
 
 
