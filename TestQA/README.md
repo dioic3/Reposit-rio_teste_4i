@@ -22,7 +22,7 @@ Clique na pasta chamada "integration" e terá mais 2 pastas:
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918609196558188614/unknown.png?width=1025&height=179)
 
-As pastas na imagem acima contém os códigos do teste, e está comentado de acordo com a minha lógica e entendimento. Quando eu abro o arquivo no Visual Studio Code, você vai localizar esses arquivos da seguinte forma:
+As pastas na imagem acima contém os códigos do teste, e está comentado de acordo com a minha lógica. Quando eu abro o arquivo no Visual Studio Code, você vai localizar esses arquivos da seguinte forma:
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918609868007567461/unknown.png)
 
