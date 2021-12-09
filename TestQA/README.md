@@ -29,15 +29,14 @@ As pastas na imagem acima contém os códigos do teste, e está comentado de aco
 A pasta "PageObjects" tem como objetivo separar os elementos e ações das páginas dos cenários de automação de testes, ou seja, é criado uma separação entre os testes e as interação com as telas da aplicação. 
 As vantagens no uso do PageObjects são: 
 1.  Facilidade na leitura e entendimento dos testes;
+
 Um exemplo desse tópico seria quando eu estava fazendo o PageObjects de "Informações" e precisava procurar os "ids" respectivos na página de Cadastro.
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918618114994892820/unknown.png?width=1006&height=473)
 
 Eu precisava criar um classe para manipular as informações de registro, ou seja, precisava fazer a chamada de uma ou mais funções para puxar as informações para realizar o cadastro.
 
-2.  Reuso de código mais simplicado;
-
-Pode-se concluir que o PageObjects agrega na criação de testes.
+2.  Reuso de código mais simplicado.
 
 A pasta "teste" tem como objetivo realizar todas as ações do teste de automação, sendo assim realizar o login e o cadastro de informações.
 
