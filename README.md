@@ -28,13 +28,15 @@ Obs: Sempre validando o Status Code e a mensagem exibida no corpo do texto.
 
 Segundo teste:
 
-O Cypress é um framework de testes de código aberto e possui uma fácil configuração, também é uma ferramenta poderosa que pode ser usada para testes unitários. É utilizado o Node JS como servidor e interpretador de sua linguagem JavaScript.
+O Cypress é um framework de testes de código aberto e possui uma fácil configuração, também é uma ferramenta poderosa que pode ser usada para testes unitários.
+
+Foi feito um projeto de automação com os seguintes cenários:
 
 1.	Login válido.
 2.	Login inválido.
 3.	Realizar o cadastro.
 
-Obs: Foi requerido utilizar o chrome para realizar o teste, e foi pedido para criar um projeto de automação TAMBÉM contendo o cenário de login inválido. Eu criei os cenários de login válido e realizar o cadastro por garantia, pois não queria ter deixado o teste de uma forma simplificada. Eu deixo claro que o teste de Cypress foi feito com base na minha interpretação.
+Obs: Foi requerido utilizar o chrome para realizar o teste.
 
 Comunicado importante: O teste de Postman e Cypress estão localizados em suas respectivas pastas. Para verificar o teste de Postman o nome da sua pasta é "Teste Postman", e contém um arquivo explicando a execução do projeto e seus possiveis resultados.
 Para verificar o teste de Cypress o nome da sua pasta é "TestQA", e também contém um arquivo explicando a execução do projeto, a lógica do código e seus possíveis resultados. 
