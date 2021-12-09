@@ -24,7 +24,7 @@ Clique na pasta chamada "integration" e terá mais 2 pastas:
 
 As pastas na imagem acima contém os códigos do teste, e está comentado de acordo com a minha lógica. Quando eu abro o arquivo no Visual Studio Code, você vai localizar esses arquivos da seguinte forma:
 
-![alt text](https://media.discordapp.net/attachments/902270296155906159/918609868007567461/unknown.png)
+![alt text](https://media.discordapp.net/attachments/879829009515561040/918650280978046986/unknown.png)
 
 A pasta "PageObjects" tem como objetivo separar os elementos e ações das páginas dos cenários de automação de testes, ou seja, é criado uma separação entre os testes e as interação com as telas da aplicação. 
 As vantagens no uso do PageObjects são: 
