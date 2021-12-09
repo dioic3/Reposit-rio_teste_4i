@@ -73,7 +73,6 @@ O resultado do segundo teste que contém o cenário: Cadastro de conta.
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918640847619256321/unknown.png?width=888&height=473)
 
-Assista ao vídeo para ver o teste sendo realizdado no cypress:
+Observação importante: No meu repositório contém um arquivo de vídeo do teste sendo realizado, basta fazer download do arquivo também.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/N2kOcTUVeW4)
-
+Atenciosamente, Joyce.
