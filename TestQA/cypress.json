@@ -4,9 +4,7 @@
     "env": {
         "email": "dioice@teste.com.br",
         "passwd": "teste",
-        "emailinvalido": "dioice@teste.",
-        "name": "Joyce",
-        "second": "da Costa"
+        "emailinvalido": "dioice@teste."
     },
     "reporter": "cypress-multi-reporters",
     "reporterOptions": {
