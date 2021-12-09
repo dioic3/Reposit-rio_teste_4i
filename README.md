@@ -6,7 +6,11 @@ Olá, meu nome é Joyce!
 
 Espero que todos estejam bem. Essa é a minha primeira vez colocando algum projeto no GitHub, e espero que esteja tudo organizado para o entendimento de vocês. Vale ressaltar que fiz o projeto conforme o que foi entendido por mim, portanto eu deixo em ênfase a importância da pesquisa e aprimoramento desse projeto.
 
-Para o entendimento do primeiro teste, é necessário dar um contexto sobre o que são as APIs e sua importância para a área de desenvolvimento de softawares, aplicativos ou sistemas. Sendo assim, a API é um conjunto de normas que possibilita a comunicação entre plataformas através de padrões e protocolos definidos pelo seu criador ou empresa responsável. Como também, possuem um formato pré-definido de dados para o compartilhamento de informações entre os sistemas, como o XML ou o YAML. 
+Para o entendimento do primeiro teste, é necessário entender o que é um projeto de automação ou teste de automação. Graças aos dois testes realizados por mim, tive a oportunidade de reabordar alguns conceitos de JavaScript quando eu programava bot no discord. Também aprendi novos conceitos voltado para o Cypress.
+
+A automação de testes são usadas para controlar a execução de testes de softwares através da aplicação de estratégias e ferramentas, ou seja, está diretamente ligado a qualidade final do produto. Sua principal vantagem é a econimia de tempo e recursos durante a execução dos testes.
+
+Também as APIS tem uma grande importância para a área de desenvolvimento de softawares, aplicativos ou sistemas. Desse modo, a API é um conjunto de normas que possibilita a comunicação entre plataformas através de padrões e protocolos definidos pelo seu criador ou empresa responsável. Como também, possuem um formato pré-definido de dados para o compartilhamento de informações entre os sistemas, como o XML ou o YAML. 
 
 Nas aplicações Web, o mais utilizado é o JSON, mostrando que existe um padrão adicional chamado REST ou conhecido por outro termo “API RESTful”. Existe uma arquitetura composta de princípios e regras que permitem a padronização e a criação de projetos com interfaces definidas, conhecida como protocolo HTTP.
 
@@ -22,16 +26,10 @@ Foi feito um projeto de automação utilizando a API pública com os seguintes c
 Obs: Sempre validando o Status Code e a mensagem exibida no corpo do texto.
 Para realizar o teste que eu fiz no Postman, recomendo que faça download do aplicativo no site (https://www.postman.com/downloads/), e depois acesse no meu repositório uma pasta “Teste employee”. Na pasta contém a collection criada por mim e um relatório do teste.
 
-Para realizar o teste, siga esses passos:
+Segundo teste:
 
-1.	Abra o “request” com o nome “Criar um funcionário”.
-Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo do texto, a mensagem que contém no corpo do texto e as informações que estão sendo criadas.
-2.	Assim que abrir o request “Criar um funcionário”, clique no botão “Send”. 
-Detalhe importante: há uma variável global chamada “id” que salva o valor do id do funcionário para que seja deletado.
-3.	Realizando o teste para criar o funcionário, abra o request com o nome “Deletar funcionário” e verifique se o valor do id do funcionário está salvo na variável global “id”.
-4.	Verificando se está salvo, aperte no botão “Send” para deletar o funcionário.
-Detalhe importante: O script criado no request “Deletar funcionário” verifica o status code, o corpo do texto, a mensagem que contém no corpo do texto e a mensagem de sucesso. Também o id criado no request “Criar funcionário” é salvo na variável global.
+O Cypress é um framework de testes de código aberto e possui uma fácil configuração, também é uma ferramenta poderosa que pode ser usada para testes unitários. É utilizado o Node JS como servidor e interpretador de sua linguagem JavaScript.
 
-O arquivo na pasta chamada "relatório do teste" contém o relatório do teste, para verificar o resultado do teste basta fazer o download do arquivo.
-
+Foi feito um projeto de automação contendo os seguintes cenários:
+1. 
 
