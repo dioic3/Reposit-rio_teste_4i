@@ -20,6 +20,9 @@ Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo d
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918594211232759888/unknown.png)
 Na figura acima, é esperado esse resultado na aba Body.
 Detalhe importante: há uma variável global chamada “id” que salva o valor do id do funcionário para que seja deletado.
+
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918594737248825344/unknown.png)
+
 3.	Realizando o teste para criar o funcionário, abra o request com o nome “Deletar funcionário” e verifique se o valor do id do funcionário está salvo na variável global “id”.
 4.	Verificando se está salvo, aperte no botão “Send” para deletar o funcionário.
 Detalhe importante: O script criado no request “Deletar funcionário” verifica o status code, o corpo do texto, a mensagem que contém no corpo do texto e a mensagem de sucesso. Também o id criado no request “Criar funcionário” é salvo na variável global.
