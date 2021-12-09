@@ -42,3 +42,23 @@ A pasta "teste" tem como objetivo realizar todas as ações do teste de automaç
 
 # Mas Joyce, qual é a lógica do código?
 
+Para entender como o código foi feito, é necessário entender para quais cenários o código do teste foi criado. O código foi feito em JavaScript para entender os cenários de Login válido, inválido e cadastro de conta no site.
+
+Os arquivos de "PageObjects" são nomeados como Informações, Login e SingUp. Eles possuem as classes para realizar as ações necessárias de Login, Sing Up e Cadastro de conta.
+
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918630211011096646/unknown.png?width=705&height=346)
+
+O código acima é um dos arquivos da pasta "PageObjects", e contém uma classe que realiza o Sing Up nesta parte do site usado para realizar o teste, veja a imagem abaixo:
+
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918631384539611146/unknown.png?width=854&height=351)
+
+Sendo assim, pode-se dizer que a classe contem três "comandos":
+1.  visit() -> visita o link da página;
+2.  email_registro() -> armazena o e-mail salvo no arquivo do cypress.json e retorna dentro da função;
+3.  button() -> serve para clicar no botão "Create an account".
+
+![all text](https://media.discordapp.net/attachments/902270296155906159/918633886341271592/unknown.png)
+
+Na imagem acima, esse código está localizado na pasta "Teste" e eu importo as classes "Sign Up" e "Informações" para o código fonte, e eu marquei em vermelho a função que entra com o e-mail no arquivo cypress.json e realiza o "Create an account".
+
+
