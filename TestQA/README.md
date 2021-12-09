@@ -71,7 +71,7 @@ O resultado do primeiro teste que contém os cenários: Login válido e inválid
 
 O resultado do segundo teste que contém o cenário: Cadastro de conta.
 
-![alt text](![image](https://user-images.githubusercontent.com/82656277/145490228-775bb802-9994-44e1-8cfc-3e1e582b2224.png)
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918640847619256321/unknown.png?width=888&height=473)
 
 
 
