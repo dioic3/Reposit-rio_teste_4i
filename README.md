@@ -4,7 +4,7 @@ Teste realizado no Postman e Cypress
 
 Olá, meu nome é Joyce!
 
-Espero que todos estejam bem. Essa é a minha primeira vez colocando algum projeto no GitHub, e espero que esteja tudo organizado para o entendimento de vocês. Vale ressaltar que fiz o projeto conforme o que foi entendido por mim, portanto eu deixo em ênfase a importância da pesquisa e aprimoramento desse projeto.
+Espero que todos estejam bem. Essa é a minha primeira vez colocando algum projeto no GitHub, justamente para um processo seletivo de estágio e espero que esteja tudo organizado para o entendimento de vocês. Vale ressaltar que fiz o projeto de acordo com o que foi entendido por mim, portanto eu deixo em ênfase a importância da pesquisa e aprimoramento desse projeto.
 
 Para o entendimento do primeiro teste, é necessário entender o que é um projeto de automação ou teste de automação. Graças aos dois testes realizados por mim, tive a oportunidade de reabordar alguns conceitos de JavaScript quando eu programava bot no discord. 
 
