@@ -34,7 +34,6 @@ Foi feito um projeto de automação com os seguintes cenários:
 
 1.	Login válido.
 2.	Login inválido.
-3.	Realizar o cadastro.
 
 Obs: Foi requerido utilizar o chrome para realizar o teste.
 
