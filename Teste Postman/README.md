@@ -18,8 +18,7 @@ Para rodar o teste, siga esses procedimentos:
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918597290992762971/unknown.png)
 
-
-2.		Realizando o download dos arquivos, abra o aplicativo na aba Collections e importe o arquivos para lá.
+2.	  Realizando o download dos arquivos, abra o aplicativo na aba Collections e importe o arquivos para lá.
 
 3.		Abra o “request” com o nome “Criar um funcionário”.
 Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo do texto, a mensagem que contém no corpo do texto e as informações que estão sendo criadas.
@@ -34,7 +33,7 @@ Na figura acima, é esperado esse resultado na aba Body.
 
 Detalhe importante: há uma variável global chamada “id” que salva o valor do id do funcionário para que seja deletado.
 
-5.	  Realizando o teste para criar o funcionário, abra o request com o nome “Deletar funcionário” e verifique se o valor do id do funcionário está salvo na variável global “id”.
+Abra o “request” com o nome “Criar um funcionário”
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918595715477942412/unknown.png)
 
