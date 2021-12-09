@@ -18,6 +18,7 @@ Para realizar o teste, siga esses passos:
 Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo do texto, a mensagem que contém no corpo do texto e as informações que estão sendo criadas.
 2.	Assim que abrir o request “Criar um funcionário”, clique no botão “Send”. 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918594211232759888/unknown.png)
+
 Na figura acima, é esperado esse resultado na aba Body.
 Detalhe importante: há uma variável global chamada “id” que salva o valor do id do funcionário para que seja deletado.
 
