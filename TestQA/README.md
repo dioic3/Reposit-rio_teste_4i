@@ -73,6 +73,8 @@ O resultado do segundo teste que contém o cenário: Cadastro de conta.
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918640847619256321/unknown.png?width=888&height=473)
 
-Observação importante: No meu repositório contém um arquivo de vídeo do teste sendo realizado, basta fazer download do arquivo também.
+Observação importante: No meu repositório contém um arquivo de vídeo do teste sendo realizado, e o nome do arquivo é "Vídeo Teste.mp4".
+
+![alt text](https://media.discordapp.net/attachments/902270296155906159/918646442275520543/unknown.png)
 
 Atenciosamente, Joyce.
