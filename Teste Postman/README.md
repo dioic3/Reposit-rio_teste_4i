@@ -23,6 +23,7 @@ Para rodar o teste, siga esses procedimentos:
 
 3.		Abra o “request” com o nome “Criar um funcionário”.
 Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo do texto, a mensagem que contém no corpo do texto e as informações que estão sendo criadas.
+
 4.	  Assim que abrir o request “Criar um funcionário”, clique no botão “Send”. 
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918594211232759888/unknown.png)
