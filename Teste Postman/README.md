@@ -20,7 +20,8 @@ Para rodar o teste, siga esses procedimentos:
 
 2.	  Realizando o download dos arquivos, abra o aplicativo na aba Collections e importe o arquivos para lá.
 
-3.		Abra o “request” com o nome “Criar um funcionário”.
+3.    Abra o “request” com o nome “Criar um funcionário”.
+
 Detalhe sobre o script na aba Testes: Esse script testa o status code, o corpo do texto, a mensagem que contém no corpo do texto e as informações que estão sendo criadas.
 
 4.	  Assim que abrir o request “Criar um funcionário”, clique no botão “Send”. 
