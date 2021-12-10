@@ -71,4 +71,13 @@ Observação importante: No meu repositório contém um arquivo de vídeo do tes
 
 ![alt text](https://media.discordapp.net/attachments/902270296155906159/918646442275520543/unknown.png)
 
+# Execução do projeto:
+1.  Para executar o projeto abra a pasta no Visual Studio Code e digite no terminal:
+-> npx cypress open
+
+2.  Digitando esse comando no terminal, apareça uma janela do cypress. Após a abertura do cypress, basta clicar no arquivo com o nome Logon.spec.js
+
+![alt_text](https://media.discordapp.net/attachments/876949125671833654/918656578880688158/unknown.png?width=611&height=424)
+
+É isto, e obrigada
 Atenciosamente, Joyce.
