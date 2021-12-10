@@ -79,5 +79,6 @@ Observação importante: No meu repositório contém um arquivo de vídeo do tes
 
 ![alt_text](https://media.discordapp.net/attachments/876949125671833654/918656578880688158/unknown.png?width=611&height=424)
 
-É isto, e obrigada
+Desse forma, será aberto uma guia do chrome que estará sendo controlada por um teste automatizado.
+
 Atenciosamente, Joyce.
