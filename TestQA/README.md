@@ -57,7 +57,7 @@ Sendo assim, pode-se dizer que a classe contem quatro "comandos":
 
 ![all text](https://media.discordapp.net/attachments/876949125671833654/918652362481102889/unknown.png?width=907&height=473)
 
-Na imagem acima, esse código está localizado na pasta "Teste" e eu importo a classe "Login" para o código fonte, e eu marquei em rosa a função que entra com o e-mail no arquivo cypress.json e realiza o "Sign up".
+Na imagem acima, esse código está localizado na pasta "Teste" e eu importo a classe "Login" para o código fonte, e eu marquei em rosa a função que entra com o e-mail no arquivo cypress.json e realiza o "Sign in".
 
 As coisas que mencionei na "lógica do código" só foi 1% do que foi feito, recomendo que baixo o código e execute para tirar as suas próprias conclusões.
 
